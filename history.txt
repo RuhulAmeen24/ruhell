@@ -1,0 +1,20 @@
+history
+sleep 2 & sleep 3
+sleep 2 & pwd
+sleep 2 & sleep 3 ; sleep 5
+sleep 2 && sleep 3
+sleep 2&
+sleep 2
+sleep 3
+sleep 2 & sleep 4
+sleep 3 & sleep 1
+sleep 4 & sleep 2
+history
+sleep 2
+sleep 4 ; sleep 6
+sleep 3
+sleep 10
+vim &
+gedit &
+sleep 2 ; sleep 1
+sleep 3 & sleep 1
