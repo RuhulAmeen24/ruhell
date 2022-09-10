@@ -1,4 +1,4 @@
-# Assignment 2
+# Ruhell-A Shell implementation
 
 ## Introduction
 
@@ -7,6 +7,7 @@ This project basically creates a shell program that tries to imitate the actual 
 ## How to run
 1. Use command `make` to run the makefile which will create an executable named `ruhell`
 2. Then run `./ruhell` which will run the executable and open the prompt of the shell
+3. Enter the commands you need to execute in the displayed prompt.
 
 ## Code Information
 
